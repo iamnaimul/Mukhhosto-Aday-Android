@@ -1,0 +1,13 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/build/
+/app/build/
+*.jks
+*.keystore
+.env
+node_modules/
